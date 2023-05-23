@@ -64,8 +64,8 @@ body {
     width: 180px;
     height: 100px;
     position: absolute;
-    top: 65%;
-    left: 35%;
+    top: 70%;
+    left: 37%;
     background: #264653;
     transform-origin: right bottom;
     transition: 1s;
